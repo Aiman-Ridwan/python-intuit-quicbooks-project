@@ -1,1 +1,1 @@
-# python-intuit-quicbooks-project
+# python Intuit Quicbooks Project
